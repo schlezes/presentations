@@ -6,6 +6,9 @@ I decided to build a these presentations using my skill sets with HTML, JavaScri
 
 That required a design of the HTML page that could easily be sequenced through the series of topics by the use of the click of the mouse.
 
+<img width="554" height="350" alt="vue-meetup-2" src="https://github.com/user-attachments/assets/fa253ad9-5415-422d-875d-d720f9ff2bcc" />
+
+
 I also designed the page in two horizontal rows: The first row, the topic. The second row, the  graphic supporting the topic.
 
 and,
@@ -20,5 +23,5 @@ Thanks,
 
 Vince Schlezes
 
-<img width="1861" height="1176" alt="big-data" src="https://github.com/user-attachments/assets/2a7dd2c2-ec29-4de1-9fc9-3b18495cf3cb" />
+
 
