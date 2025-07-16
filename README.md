@@ -19,3 +19,6 @@ I have attached the screenshots of these presentations.
 Thanks,
 
 Vince Schlezes
+
+<img width="1861" height="1176" alt="big-data" src="https://github.com/user-attachments/assets/2a7dd2c2-ec29-4de1-9fc9-3b18495cf3cb" />
+
