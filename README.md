@@ -20,9 +20,9 @@ it worked because my audience easily referred to the slide number for questions 
 
 All the rendering was dispatched to the available page space underneath the two rows so that the page remained static.
 
-Therefore;my goal, 
+Therefore; my goal, 
 
-was the presentation to benefit all attendees of the group by providing interesting topics, by providing graphics, by analyzing the source code and providing the reasons for the choice a particular algorithm that was necessary for a JavaScript function to execute correctly.
+Was a presentation that could benefit all attendees of the group by providing interesting topics, by providing graphics, by analyzing the source code and providing the reasons for the choice a particular algorithm that was necessary for a JavaScript function to execute correctly.
 
 I have attached the screenshots of these presentations.
 
