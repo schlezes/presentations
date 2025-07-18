@@ -8,10 +8,6 @@ That required a design of the HTML page that could easily be sequenced through t
 
 <img width="1312" height="445" alt="html" src="https://github.com/user-attachments/assets/de23cd2b-21a6-4bbd-ab22-011ff6eb35b7" />
 
-
-<img width="554" height="350" alt="vue-meetup-2" src="https://github.com/user-attachments/assets/fa253ad9-5415-422d-875d-d720f9ff2bcc" />
-
-
 I also designed the page in two horizontal rows: The first row, the topic. The second row, the  graphic supporting the topic.
 
 and,
