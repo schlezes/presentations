@@ -8,9 +8,6 @@ That required a design of the HTML page that could easily be presented through b
 
 <img width="1312" height="445" alt="html" src="https://github.com/user-attachments/assets/de23cd2b-21a6-4bbd-ab22-011ff6eb35b7" />
 
-[Uploading html.mht…]()
-
-
 I also designed the page in two horizontal rows: The first row, the slide topic. The second row, the slide graphic supporting the topic.
 
 I used a series of numbers to define the slide; however, the click on the slide rendered the slide information.
