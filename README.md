@@ -6,7 +6,7 @@ I decided to build a these presentations using my skill sets with HTML, JavaScri
 
 That required a design of the HTML page that could easily be sequenced through the series of topics by the use of the click of the mouse.
 
-<img width="1312" height="445" alt="html" src="https://github.com/user-attachments/assets/838e57aa-21aa-46e2-9341-e7dee934aed0" />
+<img width="1312" height="445" alt="html" src="https://github.com/user-attachments/assets/de23cd2b-21a6-4bbd-ab22-011ff6eb35b7" />
 
 
 <img width="554" height="350" alt="vue-meetup-2" src="https://github.com/user-attachments/assets/fa253ad9-5415-422d-875d-d720f9ff2bcc" />
