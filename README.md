@@ -4,7 +4,7 @@ These groups attracted all levels of software engineering expertise.
 
 I decided to build a these presentations using my skill sets with HTML, JavaScript, TypeScript, CSS, JSON and VUE.  
 
-That required a design of the HTML page that could easily be presented through by the use of the click of the mouse.
+That required a design of the HTML page that could easily be presented through by the click of the mouse.
 
 <img width="1312" height="445" alt="html" src="https://github.com/user-attachments/assets/de23cd2b-21a6-4bbd-ab22-011ff6eb35b7" />
 
